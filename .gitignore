@@ -1,0 +1,24 @@
+.local/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+workbench/
+.DS_Store
+
+
+# Private runtime state and credentials (never publish).
+.trigger-agent/
+.env
+.env.*
+!.env.example
+!.env.sample
+*.key
+*.pem
+*.p12
+*.pfx
+credentials*.json
+auth.json
+*.log

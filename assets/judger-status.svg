@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="870" height="34" viewBox="0 0 870 34" role="img" aria-label="Keyboard demo; Python 3.11+; Codex connected; EEG planned; MIT licensed">
+<g font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle">
+<rect x="0" y="1" width="179" height="32" rx="16" fill="#18251b"/><text x="89.5" y="21" fill="#c6ee96">● KEYBOARD DEMO</text>
+<rect x="191" y="1" width="153" height="32" rx="16" fill="#19232a"/><text x="267.5" y="21" fill="#aec9db">PYTHON 3.11+</text>
+<rect x="356" y="1" width="181" height="32" rx="16" fill="#20232c"/><text x="446.5" y="21" fill="#c6c3e8">CODEX CONNECTED</text>
+<rect x="549" y="1" width="181" height="32" rx="16" fill="#24251e"/><text x="639.5" y="21" fill="#d3d2ae">EEG / PLANNED</text>
+<rect x="742" y="1" width="128" height="32" rx="16" fill="#172b24"/><text x="806" y="21" fill="#a9dfc7">MIT LICENSE</text>
+</g></svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
+<title id="title">Judger — Rethink how humans direct AI</title>
+<desc id="desc">A dark brand banner with lime accents, three keyboard triggers, and the line Keyboard now. EEG on the roadmap.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080d10"/><stop offset="1" stop-color="#111c1b"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#d2ff55" stop-opacity=".13"/><stop offset="1" stop-color="#d2ff55" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a5c5ad" stroke-opacity=".07"/></pattern>
+ <linearGradient id="key" x2="0" y2="1"><stop stop-color="#22322b"/><stop offset="1" stop-color="#121d18"/></linearGradient>
+</defs>
+<rect width="1600" height="560" rx="24" fill="url(#bg)"/>
+<rect width="1600" height="560" rx="24" fill="url(#grid)"/>
+<ellipse cx="1250" cy="270" rx="460" ry="350" fill="url(#glow)"/>
+<path d="M70 58H1530" stroke="#2a3931"/>
+<circle cx="78" cy="32" r="4" fill="#d4ff63"/>
+<text x="94" y="38" fill="#b4c5b8" font-size="13" letter-spacing="3" font-family="Arial,Helvetica,sans-serif">THE INTENT INTERFACE</text>
+<text x="1530" y="38" text-anchor="end" fill="#7f9688" font-size="12" letter-spacing="2" font-family="Arial,Helvetica,sans-serif">KEYBOARD DEMO / 0.3</text>
+<text x="64" y="253" fill="#f1f6ec" font-size="168" font-weight="800" letter-spacing="-8" font-family="Arial,Helvetica,sans-serif">JUDGER</text>
+<text x="74" y="320" fill="#d4ff63" font-size="30" font-weight="600" letter-spacing=".5" font-family="Arial,Helvetica,sans-serif">Rethink how humans direct AI.</text>
+<text x="76" y="367" fill="#95ab9e" font-size="20" font-family="Arial,Helvetica,sans-serif">Small signals. Clear intent. Real execution.</text>
+<rect x="76" y="424" width="345" height="38" rx="19" fill="#17251c" stroke="#36513b"/>
+<circle cx="96" cy="443" r="4" fill="#d4ff63"/>
+<text x="112" y="448" fill="#c6d8bd" font-size="12" letter-spacing="1" font-family="Arial,Helvetica,sans-serif">KEYBOARD NOW. EEG ON THE ROADMAP.</text>
+<g fill="none" stroke="#7d9d54" stroke-width="1.4" opacity=".6">
+ <path d="M1228 122V160M1075 190V173Q1075 160 1088 160H1368Q1381 160 1381 173V190"/>
+ <path d="M1228 160V190M1075 316V343Q1075 356 1088 356H1368Q1381 356 1381 343V316M1228 316V407"/>
+</g>
+<circle cx="1228" cy="111" r="8" fill="#d4ff63"/>
+<circle cx="1228" cy="111" r="19" fill="none" stroke="#d4ff63" stroke-opacity=".25"/>
+<rect x="1010" y="194" width="130" height="130" rx="23" fill="#080d0b"/>
+<rect x="1010" y="186" width="130" height="130" rx="23" fill="#d4ff63"/>
+<text x="1075" y="276" text-anchor="middle" fill="#122015" font-size="84" font-weight="600" font-family="Arial,Helvetica,sans-serif">=</text>
+<rect x="1163" y="194" width="130" height="130" rx="23" fill="#080d0b"/>
+<rect x="1163" y="186" width="130" height="130" rx="23" fill="url(#key)" stroke="#516a47"/>
+<text x="1228" y="273" text-anchor="middle" fill="#d4ff63" font-size="78" font-family="Arial,Helvetica,sans-serif">−</text>
+<rect x="1316" y="194" width="130" height="130" rx="23" fill="#080d0b"/>
+<rect x="1316" y="186" width="130" height="130" rx="23" fill="url(#key)" stroke="#516a47"/>
+<text x="1381" y="273" text-anchor="middle" fill="#d4ff63" font-size="72" font-family="Arial,Helvetica,sans-serif">0</text>
+<rect x="1136" y="406" width="184" height="37" rx="18" fill="#17251c" stroke="#405836"/>
+<text x="1228" y="430" text-anchor="middle" fill="#c4d9ad" font-size="12" letter-spacing="2" font-family="Arial,Helvetica,sans-serif">INTENT → ACTION</text>
+<path d="M70 500H1530" stroke="#2a3931"/>
+<text x="76" y="532" fill="#738b7a" font-size="12" letter-spacing="2" font-family="Arial,Helvetica,sans-serif">DISCOVER / DECIDE / DIRECT</text>
+<text x="1530" y="532" text-anchor="end" fill="#738b7a" font-size="12" letter-spacing="1" font-family="Arial,Helvetica,sans-serif">ALL CONTROLS IN TERMINAL. YOUR WORK IN VIEW.</text>
+</svg>
